@@ -116,8 +116,9 @@ img {
 .header-banner_description {
     width: 350px;
     height: 100%;
-    background-color: rgba(40, 40, 40, 0.7);
-    color: #f7f7f7;
+    background-color: rgba(255, 255, 255, 0.7);
+    /*background-color: rgba(40, 40, 40, 0.7);*/
+    /*color: #f7f7f7;*/
     border: 1px solid transparent;
     border-top-radius: 10px;
 
@@ -142,10 +143,11 @@ img {
     border-radius: 5px;
     background: linear-gradient(to right, #fa7070, #e83535) !important;
     border: none;
-    color: #FFFFFF;
+    /*color: #FFFFFF;*/
     text-align: center;
     text-transform: uppercase;
     font-size: 16px;
+    font-weight: 700;
     padding: 15px;
     width: 180px;
     transition: all 0.4s;
@@ -182,7 +184,7 @@ img {
     right: 0;
     bottom: 0;
     padding: 20px 30px;
-    background-color: rgba(40, 40, 40, 0.7);
+    background-color: rgba(255, 255, 255, 0.7);
 
     display: flex;
     justify-content: space-between;
@@ -193,7 +195,7 @@ img {
     font-weight: 700;
     text-transform: uppercase;
     display: inline-block;
-    color: #f7f7f7;
+    /*color: #f7f7f7;*/
 
     margin-right: 30px;
 }
